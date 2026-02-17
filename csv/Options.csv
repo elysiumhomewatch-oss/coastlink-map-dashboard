@@ -1,0 +1,2 @@
+basemap,zoom,center-lat,center-lng,attribution,legend-title,legend-position,point-radius,point-stroke,point-fill,point-opacity,point-hover-radius,point-hover-stroke,point-hover-fill,point-hover-opacity,point-cluster-enable,point-cluster-radius,point-cluster-max-zoom,point-cluster-disable-at-zoom
+https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png,12,-30.85,30.35,"&copy; <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors",CoastLink Alerts,bottomright,8,#000000,#FF0000,0.8,12,#000000,#FF0000,1,true,40,16,10
